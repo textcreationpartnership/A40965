@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Farther account from several letters of the continuation of the cruel persecution of the people called Quakers in Bristol, without regard to age or sex with copies of several warrants, by which some of them were committed.</title>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40965</idno><idno type="EEBO-CITATION">19370420</idno>
+  <idno type="VID">108806</idno>
+  <idno type="EEBO-PROQUEST">2248551687</idno>
+  
+            <idno type="STC">Wing F526</idno>
+            <idno type="STC">ESTC R40583</idno>
+            <idno type="OCLC">19370420</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Farther account from several letters of the continuation of the cruel persecution of the people called Quakers in Bristol, without regard to age or sex with copies of several warrants, by which some of them were committed.</title>
+               </titleStmt>
+               <extent>1 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Pringhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Errors in paging: pages 3 and 6 misnumbered 2 and 1.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Bristol.</term>
+               <term type="topical_term">Persecution --  England.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:108806:1"/>
+            <head>A Farther Account from several Letters Of the Continuation of the Cruel Persecution OF THE <hi>People called Quakers in Bristol,</hi> Without Regard to <hi>AGE</hi> or <hi>SEX.</hi>
+            </head>
+            <head type="sub">With Copies of several <hi>Warrants,</hi> by which some of them were Committed.</head>
+            <div type="part">
+               <head>
+                  <hi>Bristol</hi> the 8th of the 3d Moneth, called <hi>May, 1682.</hi>
+               </head>
+               <p>IN our former printed Relation, you have an Acccount of proceedings till the 29th of the 2d Moneth called <hi>April,</hi> in <hi>Easter-Sessions,</hi> when remained <hi>Seventeen</hi> of our Friends Prisoners, on account of Fines for Meetings; since which divers that were then discharged out of Prison, on promise of Ap<g ref="char:EOLhyphen"/>pearance; and some others were called into Court again upon the next adjournment of the Sessions, and there Indicted for <hi>breach of the Peace,</hi> fined and committed for their Fines.</p>
+               <p>In the mean time Sheriff <hi>Knight</hi> and <hi>John Hilliar</hi> went on with their Inhumane and Arbitrary proceed<g ref="char:EOLhyphen"/>ings against us; for yesterday the 7th of the 3d Moneth, being the first day of the Week, called the <hi>Lord's-day</hi> in the Morning, they sent seven Men to <hi>Newgate</hi> from their peaceable Meeting, and then caused, <hi>the Doors to be nailed upon the Rest</hi> (viz.) eighty seven Women and fourteen Men together, thus Imprison<g ref="char:EOLhyphen"/>ing them in their Meeting-house well nigh <hi>six Hours,</hi> allowing no way out for conveniency of Ease or Re<g ref="char:EOLhyphen"/>freshment to Nature, which <hi>Hilliar</hi> was so sensible of, that he told the Women to this effect, <hi>That the next time they should bring Chamber-Pets with them.</hi> It is too large to insist on all their sordid Abuses.</p>
+               <p>The seven were sent for out again, and dismissed, occasioned, as is supposed, by their making the said Meeting a <hi>Religious Conventicle,</hi> and <hi>not a Riot.</hi>
+               </p>
+               <p>In the After-noon the same Day <hi>John Hilliar, John Tilly,</hi> &amp;c. Constables, came to the Meeting, and because our Friends did not depart upon Proclamation, they called then <hi>WHORES</hi> and <hi>ROGƲES,</hi> guarded the Door, and confined them in their Meeting place, which is in a Yard in the Rain, since they were kept out of our Meeting-house: This they did without respect to Sex, Age or Quality, them<g ref="char:EOLhyphen"/>selves having taken up the Places of Shelter to drink <hi>Ale</hi> and <hi>smoke Tobacco in:</hi> And because when their usual time of departure was come, our Friends attempted to go forth and depart peaceably away to their respective Homes, the Door not being fast shut, one of the Constables laid Violent Hands on an Antient Woman, (viz. <hi>Haunah Jordan</hi>) griped or princed her Arm so hard and Maliciously, that made it very <hi>black,</hi> the like whereto Sheriff <hi>KNIGHT</hi> had formerly done by her <hi>other Arm.</hi> Thus violently stop<g ref="char:EOLhyphen"/>ping them, they continued them there in the Rain, and after wards <hi>Indicted them for a Riot, because they attempted to go:</hi> But the Jury brought in their Verdict <hi>NO RIOT;</hi> at which Sheriff <hi>Knight</hi> and <hi>John Hilliar</hi> were greatly discontented, the former threatning some of the Jury, <hi>To have them up to</hi> London.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Brisol</hi> the 15th of the 3d Moneth, called <hi>May, 1682.</hi>
+               </head>
+               <p>YEsterday being the first Day of the Week, called the <hi>Lord's-day,</hi> Shcriff <hi>Knight, John Hilliar,</hi> with <hi>Edmund Brand, John Tilly, Thomas Lugg,</hi> &amp;c. sent from our Morning Meeting twen<g ref="char:EOLhyphen"/>ty five, <hi>viz.</hi> eleaven Men and fourteen Women to <hi>Bridewel</hi> and <hi>Newgate,</hi> and there kept them <hi>without Mittinsus</hi> till six or seven of the Clock in the Evening, and then had them before Alderman <hi>Olliff.</hi> to the <hi>Three Tun-Tavern,</hi> who required Sureties of them for their appearance at Sessions, and of their good behaviour in the mean time (viz.) <hi>To come no more to such Meetings to worship God:</hi> Which (with La<g ref="char:EOLhyphen"/>mentation we may say) is accounted a Crime with them; and we leave it to sober People in <hi>Bristoll</hi> to judge, whether it is not worse punished than <hi>Cursing, Swearing, Whoreing, Drunknness,</hi> &amp;c. For are not such common and crying Sins little regarded? And because they could not with good Conscience com<g ref="char:EOLhyphen"/>ply with those Terms, the said Alderman <hi>Olliffe</hi> presently committed them all to <hi>Newgatc,</hi> undor the No<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:108806:2"/>of <hi>PEACE-BREAKERS,</hi> the Alderman being but the Night before returned from <hi>London:</hi> It was much taken notice of how heartily <hi>John Hilliar Thanked his GOD</hi> for it, as knowing that he would do their Business; so though the Sheriff had made many Attempts before upon the women, to get them fastened in <hi>Newgate,</hi> notwithstanding his former pretence to the contrary, of more respect to their Sex, yet could not have it effected, till he had gotten them before the said Alderman at <hi>his Tavern;</hi> for hither to it was Evident on occasion of the said Sheriffs frequently causing them to be brought before the Magi<g ref="char:EOLhyphen"/>strates in open Court, that it seemed more Unnatural to the Mayor and other of the Justices, and more void of Pretext, and obvious to Universal Censure, to commit Women, against whom they had no<g ref="char:EOLhyphen"/>thing to object about <hi>Chusing Parliament Men,</hi> than it was before to commit their Husbands. <hi>Women,</hi> their known peaceable Neighbours to such a Noisome Prison, under pretence of breach of the Peace, for their Religious Assemblies in the fear and love of God, to serve and worship him in the Spirit and Truth; One would have thought the Pitiful Shift the said Sheriff was formerly driven to, on the like occasion, when Interrogated by the Mayor, <hi>Wherefore he brought these Women before him?</hi> should have dis<g ref="char:EOLhyphen"/>couraged him from meddling more with them; for he confessed, <hi>They neither said nor did any thing;</hi> and had nothing more to alledge, than <hi>That they were such a time at such a place, and did not depart upon Procla<g ref="char:EOLhyphen"/>mation, and that he knew not what Business they had there unless it were to Contrive to break open the Prison Doors and rescue their Husbands.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bristol</hi> the 22d of the 3d Moneth, <hi>1682.</hi>
+               </head>
+               <p>THe 21st in the Morning, being the first day of the Week, called the <hi>Lords day,</hi> after Alderman <hi>Hicks,</hi> Sheriff <hi>Knight, Edmund Brand,</hi> &amp;c. had dispersed the Meeting, and driven out Friends be<g ref="char:EOLhyphen"/>fore them into another Street, and were gone to their Worship, <hi>Ralph Olliffe,</hi> (Son of Alderman <hi>Olliffe</hi>) Constable, &amp;c. pursued them; he sent several to Prison imperiously, saying, <hi>Since the Justices will not commit them to Prison, I will;</hi> and as he was driving Friends over the Bridge, some rested, upon which he made Proclamation, run and called out he Sheriff from his Worship, with some Constables; but be<g ref="char:EOLhyphen"/>fore they came, our friends were gone; <hi>Darcas Dole,</hi> Wife of <hi>John Dole,</hi> visiting them that were sent to Prison, prayed to God amongst them, for which she was Conlined also.</p>
+               <p>In the Afternoon much Rudeness was committed by those that came to desturb the Meeting, by calling abusive Names, and beating, pulling off Friends Hats, but none sent to Prison.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bristol</hi> the 19th of the 3d Moneth, called <hi>May, 1682.</hi>
+               </head>
+               <p>YEsterday Morning, being the first day of the week, call'd the <hi>Lords day,</hi> before the Meeting was fully ga<g ref="char:EOLhyphen"/>thered, came Sheriff <hi>Knight, E. Brand, R. Olliffe,</hi> with other Constables; after the Sheriff had walked to and fro a little, he made Proclamation for all to depart, and disperse themselves; frequently asking Friends business there, with design to ensnare them, and bring them under the Penalty of the <hi>Conventicle Act,</hi> which hath been his and their Practice all along from the beginning; but Friends, though ready to give an <hi>ac<g ref="char:EOLhyphen"/>count of their Faith,</hi> and <hi>Reason of their practice of Meeting together</hi> to all sober Enquirers, and have, as occasion hath offered in Court, publickly and solemnly professed it to be for no other end, but to <hi>Wait upon and Worship our God that made us,</hi> and that not in Pretence, but in Sincerity and Truth, God is our Witness: Yet we have not thought our selves obliged to gratifie that Spirit any, that seeks to ensnare us out of our own Mouthes, to make a Prey and Advantage to themselves of us. But our Adversaries finding themselves disappointed by our silent Meetings, which is no new thing, nor strange to the obser<g ref="char:EOLhyphen"/>vation of most that know us, to have been our Practice from the beginning, to wait for the Consolation of God Spirit: Rather than loose their Advantage, and want VVork of Mischievous tendency against their Innocent Neighbours, what the Law will not do, they supply by their Oaths, who sometimes have sworn these our Meetings Conventicles, in other manner than according to the Liturgy, though no di<g ref="char:EOLhyphen"/>stinguishing Character appeared; other times they have sworn them to be of a clear contrary Tenden<g ref="char:EOLhyphen"/>cy (viz.) in Disturbance of the Kings Peace, though no unpeaceable Word or Action to proved, no<g ref="char:EOLhyphen"/>thing more opposite; for our Meetings are for our procuring and preserving our Peace and Favour with God, and maintaining Amity, Love, Good Will and Concord one with another, and with all Man<g ref="char:EOLhyphen"/>kind, having nothing in our Hearts, (the Lord knows,) to break the Kings Peace; though upon such false Informations of breach of the Peace we have been committed, and alter having endured seve<g ref="char:EOLhyphen"/>ral Moneths close Imprisonment, thronged together is a noisom Goal. Many have been Indicted, Con<g ref="char:EOLhyphen"/>victed and Fined without measure, and remain Prisoners on the said Fines to this day. But to return to the Business of our Meeting, Friends not departing upon Proclamation, the Sheriff very formally arrest<g ref="char:EOLhyphen"/>ed in the Kings Name eleaven Friends, both Men and Women, and afterwards seized on one VVoman more, whom he said, he would have to make up a JURY; these were had away to <hi>Newgate,</hi> and then Sir <hi>Rebert Yeamons, John Hilliar, John Tilly</hi> and <hi>Thomas Lugg</hi> came to the Meeting, and soon after three more were sent to <hi>Newgate,</hi> and presently upon it a <hi>Mittimus</hi> for them all sent to detain them without being convened before any Magistrates; the Names of the rest were taken, and so dismist.</p>
+               <p>The same Day in the Afternoon to the Meeting in the <hi>Fryars,</hi> came Sheriff <hi>Knight, John Hilliar, Ed<g ref="char:EOLhyphen"/>mund Brand, John Tilly, Thomas Lugg,</hi> &amp;c. they askt Friends (as usually) <hi>What they did there?</hi> and then
+<pb n="2" facs="tcp:108806:2"/>made Proclamation in the Kings Name to depart; <hi>John Hilliar</hi> went up and down in the Meeting <hi>Searching for Stools to make a Bonfire,</hi> (as he said) <hi>the next day being the Kings Birth and Restoration Day:</hi> Then the Sheriff settled in a Chair without the VVicket, at the entrance of the Meeting place, ordered Friends to be brought out one by one, and their Names to be taken, and then placed them in the Cloysters till all were out of the Meeting, putting a Guard at both ends of the Cloysters; and then sent away about Ninety to <hi>Bridewell,</hi> making a Scoff thereat, saying, <hi>They would send them by Dezens, at thirteen to the Dozen;</hi> one of them Querying, <hi>Whether one Constable was sufficient for a Dozen? Hilliar</hi> replyed, <hi>It was as the Nature of the Cattel was.</hi> Thus bruitishly they compared their Innocent NEIGHBOURS to CATTEL, and dealt with them accordingly, by their driving them roughly along to Prison, like Sheep to the Slaughter; <hi>HILLIAR</hi> above all others behaved himself very Vile and VVicked at this Mee<g ref="char:EOLhyphen"/>ting; He took the Child of <hi>Rebecca Ithell,</hi> being about four Years old, violently away by the Arms from her, and lifted him from the Ground three times, and letting him down again, in a pounding manner, cast him off from him, and said to the Child, <hi>You Rogue, will you come no more to Meeting?</hi> Which Action so harmed and terrified the Child, to a great extremity of Crying, the sight whereof made the People that were present as Spectators, cry out shame, <hi>Will he kill the Child?</hi> and some went and took the Child away: And then <hi>Hilliar</hi> going to the Mother of the Child, whom he had taken Prisoner, she asked him, <hi>Why he so abused her Child?</hi> who replyed, <hi>You</hi> WHORE, <hi>I could thrust my Cane down your Throat;</hi> and so he se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t her, with the rest, to <hi>Bridewell,</hi> as before. Eighty five were brought to Prison, being all VVomen and Maids, except four Men and a Youth, some VVomen with Child, and some very antient and feeble; how<g ref="char:EOLhyphen"/>beit, without respect to Age, Sex or Condition, they were put in together, where for want of Beds, (there being in all but three to spare) they were forced to sit and lie on the Stones, and the Floor, Benches and Tables all Night in five Rooms, some of them being very Nasty, and open, without either Galss or Shutters to the VVindows, which had not been made use of for many Years. The next day they were sent for before the Mayor and Aldermen to the <hi>Tolrey,</hi> where (after so ill a nights lodging) they were detained about Eight hours, <hi>viz.</hi> from about nine till five in the Evening, the most part of the time locked up in the lower Council-house, until the Magistrates could come to a conclusion amongst themselves what to do with them, through which long continuance of standing together, with the heat, several of them were sick and faint, not being in a fit condition for such Confinement; at length they committed <hi>Seventy Three</hi> of them; the Men they sent to <hi>Newgate,</hi> but the VVomen to <hi>Bridewell,</hi> all under the usual colour or pre<g ref="char:EOLhyphen"/>tence of <hi>Breach of the Peace,</hi> where they are grievously thronged together, lying on the Floors, seven, eight and nine Beds in a Room.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="mittimus">
+                           <head>Here followeth the Copy of their <hi>Mittimus.</hi>
+                           </head>
+                           <head type="sub">To the Keeper of his Majesties Goal of <hi>Newgate,</hi> within the City of <hi>Bristol.</hi>
+                           </head>
+                           <p>Bristol. <q>
+                                 <hi>WE herewith send you the Body of</hi> Hannah Jordan, <hi>Widdow,</hi> Robert Lux, <hi>Stocken maker,</hi> Mary Wootten, Mary Holeister, Sarah Shaw, Mary Aldworth, Mary Cowling, william Davis, Charles Smith, Mary Day, Eliz. Horwood, Mary Tyler, Mar<g ref="char:EOLhyphen"/>garet Price, Eliz. Hoistone, Constance Cox, Hannah Davis, Sarah Dickson, Mary Hooper, Abi<g ref="char:EOLhyphen"/>gal Bues, Anne Andrew, Eliz. Sturge, Eliz. Atkins, James Atkins, Christian Roe, Eliz. Roe, Mary Thresher, Mary Alebright, Sarah Saunders, Susannah York, Jane Merrick, Sarah Bues, Eliz. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ppin, Margaret Coal, Martha Window, Margaret Clistel, Alice Ellis, Eliz. Driver, Sarah Gibson, Eliz. Lucas, Martha James, Mary Try, Eliz. Long, Mary Ledbrook, Mary Roek, Joan Crew Eliz. Tayler, Mary Merrick, Susannah Otley, Joan Seager, Sarah Dole, Susannab Godby, <hi>junior,</hi> Anne Snelgrove, Susan. Godby, <hi>senior,</hi> Martha Towne, Joan P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>hillips, Mary Hampton, Anne Hill, Anne Lamb, Elix. David, Mary Try, Frances Try, Mary Nayler, Eliz. Martin, Sarah Blackeway, Elinor Horne, Rachel Martin, Alice Hill, Jane Taylor, Rebecca Martin, Joan Pricket, Ruth Rippin, Margaret Thompson, John Woodward. <hi>For that they, and every of them, upon the 28th day of</hi> May, <hi>instant, being the</hi> Lords Day, <hi>together with divers other Persons, did unlawfully assemble themselves, and meet together in a place called the</hi> Friery, <hi>in the Parish of St</hi> Jame<hi>'s, in this City, and refused do depart, though solemnly required and commanded by several Constables of the Ward of St</hi> James, <hi>in contempt and breach of his Majesties Law and Peace; and for that they and every of them refused to find Sureties for their Personal Appearances at the next general Sessions of the Peace, you are to take them into Custody, and their Bodies you are there safely to keep, until they be thence discharged by due course of Law.</hi>
+                              </q>
+                           </p>
+                           <closer>
+                              <dateline>
+                                 <hi>Given under our Hands and Seals,</hi>
+                                 <date>
+                                    <hi>this nine and twentieth day of</hi> May, <hi>1682.</hi>
+                                 </date>
+                              </dateline>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Thomas Earl, <hi>Mayor,</hi>
+                                       </hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ralph Olliffe,</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Robert Yeomans.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Richard Crump.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="4" facs="tcp:108806:3"/>
+               <p>Let it be observed, they promised faithfully to appear according to appointment; but the Reason why they would not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nter into Bonds of appearance, was the usual Charge of ten Groats, each, and they knowing it was for no other cause but for waiting upon the Lord, they could not gratifie the designs of such as would make that as an occasion of advantage upon them, and which they were liable to the next Meeting-day; besides that, many were poor, and their Charge very considerable.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bristol,</hi> the 5th of the 4th Moneth, called <hi>June, 1682.</hi>
+               </head>
+               <p>YEsterday being the first day of the the Week, <hi>John Hilliar, John Tilly, &amp;c.</hi> broke up the Morning Meeting early, sent five Men and four Women to Bridewell, where one of the Women that was a Prisoner, speaking to the rest, being met together to wait upon God, <hi>Thomas Lugg</hi> came and haled her out violently, and put her in the place called the <hi>Pen.</hi>
+               </p>
+               <p>In the Afternoon <hi>John Tilly</hi> and <hi>Ralph Olliffe,</hi> jun. <hi>&amp;c.</hi> sent from the Meeting in the <hi>Fryars</hi> five Women more to Bridewell, where all remain without a Mittimus, neither were they brought before a Magistrate. <hi>James Gainer,</hi> one of the men taken Prisoner yesterday to Bridewell, for demanding of <hi>John Hilliar</hi> a Copy of his Mittimus, and replying upon <hi>John Hilliar</hi>'s Question, (<hi>By what Scripture he demanded his Mittimus.</hi> viz. <hi>What Scripture he had to keep him without a Mittimus. John Hilliar</hi> said, <hi>Sarrah, I will teach you Scripture:</hi> And using other threatning words, commanded the Goaler to put him in a place he called <hi>Francklins Fen,</hi> which was accordingly done, and there he remains.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bristol,</hi> the 12th of the 4th Moneth, called <hi>June, 1682.</hi>
+               </head>
+               <p>YEsterday Morning (being the first day of the Week) <hi>Raiph Olliffe,</hi> jun. <hi>&amp;c.</hi> broke up the Meeting, and sent four Men to <hi>Newgate,</hi> and five Women to Bridewell, who were since fastened by a Warrant from Alderman <hi>Olliffe,</hi> without being called forth or convened before him. In the Afternoon <hi>John Hilliar, &amp;c.</hi> came to the Meeting, and demanded the cause of Friends being there, and being answered by one present, <hi>It was to wait upon the worship god,</hi> they took Friends Names and turned them away, as is supposed making the Meeing a Con<g ref="char:EOLhyphen"/>venticle, notwithstanding <hi>John Hilliar</hi> sent or had away to Bridewell seven of the Children that were present at this Meeting, and there continued them till it was late. The five Men that were sent to Bridewell last Week, were afterwards committed to sent to <hi>Newgate.</hi>
+               </p>
+               <p>Thus they continue to deal with us, making it a light matter to send and commit the Master, Mistriss and Servants all to Prison, the Husbands in one, and their Wives in the other Prison where they are in both Prisons miserably thronged together, to the Number of about <hi>One Hundred and fifty.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bristol,</hi> the 18th of the 4th Moneth, called <hi>June, 1682.</hi>
+               </head>
+               <p>IT being the first day of the Week, Sheriff <hi>Knight, John Hilliar, Ralph Olliffe,</hi> jun. <hi>Tho. Lugg, John Tilly, —Dyer, John Patrick, Edmund Brand,</hi> and divers others came to the Meeting in <hi>Temple-street,</hi> after they had cast their Eyes round the Meeting, <hi>John Hilliar</hi> came to <hi>Thomas Callowhill,</hi> and asked, <hi>What was their business there? T. Callowhill</hi> answered, <hi>That as it had been for long time their accustomed manner on these days to meet together to wait upon the Lord, so was it their occasion at this time.</hi> The Sheriff and <hi>J. Hilliar</hi> directed their Names to he taken, as in order to convict them for a Conventicle, one of their Followers saying, Thomas Callowhill <hi>now, and</hi> Thomas Jordan <hi>the former Meeting, are the great Saints that must pay for all the rest. Thomas Callowhill</hi> stepping to Sheriff <hi>Knight,</hi> asked him, saying, <hi>Is it a Transgression of our Laws to wait upon the Lord?</hi> The Sheriff answered, <hi>Yes, that it is. Mary Gouldney</hi> saying also somewhat to them concerning our being there to wait upon the Lord, <hi>John Hilliar</hi> replyed to it, <hi>You should have been at home at your Spindle and Distaff a spinning. Mary Gouldney</hi> saying somewhat to this purpose, Do ye appoint these dayes for Spinning? Then <hi>John Hilliar</hi> to amend it, said, <hi>Third days and Sixth days you should Spin.</hi> So putting the said Persons, amongst others, out of the Meeting, dispersed the Meeting, saying. <hi>Take these Boys and Girls, and put them in the Stocks.</hi> In the way homewards, in the Street <hi>John Hilliar</hi> and <hi>Thomas Callowhill</hi> passing some words, T.C. said, <hi>John Hilliar,</hi> prethee be not so Ex<g ref="char:EOLhyphen"/>tream,
+<pb n="5" facs="tcp:108806:3"/>the Laws of this Realm are not really against Peoples waiting upon the Lord, and to extend them farther than they are is an abule to your Authority, and the Government. <hi>John Hilliar</hi> became froward and offended the reat, saying to <hi>T. Callowhill, You shall go to the Stocks for so reflecting;</hi> and so taking him in hold, said, <hi>I arrest you, you shall go to Bridewell.</hi> And walking further onwards, observed a little Girle about ten Years of Age, who had been at the Meeting, said, <hi>Here, take this Girle and put her in the Stocks with the rest. Mary Gouldney</hi> being by, observing the little Girle, said to her, Thou needst no fear the Stocks: <hi>J. Hilliar</hi> took hold also of <hi>M.G.</hi> for so saying, telling her he did <hi>Arrest her,</hi> and that she should go to Bridewell for encouraging the Girle in her Rebellion. So brought the said M. G. and T. C. to Bridewell, and in the way at the <hi>High-Cross</hi> Stocks put six Youths, which they brought from the Meeting, being not of Age to come under the Penalty of the Conventicle Act, viz. <hi>Benjamin Wall, Elias Osburne, John Bencher, Joseph James, Samuel Gibbons,—</hi> whom they kept there about an hour, then being set out and brought before the Mayor, after with T. C. and M. G. as they entred the Court door, hearkned, supposing they heard some<g ref="char:EOLhyphen"/>body speaking above, ran up, and finding <hi>Darcass Dole</hi> at Prayer, so rudely haled at her to pull her off her Knees, and forth with Violence, strained so against a large Table board, as near to over set it, and for that Transgression, as they accounted it, penned her up in a dark low small Pen, so damp and noisome, and there continued her, until she (overcome with the Damp and Nastiness thereof) fainted; and when they took her out, she could not speak nor see, until some time she recovered. <hi>Tho Lugg</hi> passing out, perceiving the Key of the Garden, privately took up the Key, and said, <hi>The</hi> Quakers <hi>had too much liberty;</hi> and so kept the Key until the Evening, that the Keeper might not permit them, it being a very small Garden under the House side. Attested by <hi>Thomas Callowhill</hi> and <hi>Mary Gouldney.</hi>
+               </p>
+               <p>The same day in the Afternoon, some Friends being met near their Meeting-place in the <hi>Fryars,</hi> as is usual, <hi>John Hilliar, John Tilly, Thomas Lugg,</hi> and divers others came there; <hi>J. Hilliar</hi> commanded them to depart, disperse themselves, and keep the Kings Peace, and began to take hold of several, taking off the Boys Hats, hurling them away; particularly <hi>John Hilliar</hi> took a good Hat off <hi>Benjamin Wall</hi>'s head, and gave it a poor Boy, taking off his old dirty Hat, and clapt on <hi>Benj. Wall's</hi> head, which <hi>B. W.</hi> refusing to accept, <hi>J. Hilliar</hi> held up his Staff, and threatned, as if he would have beaten him, and so bid the Boy go away with his Hat; and rudely pulled off some of <hi>Mary Didicots</hi> Clothes from her Head, and threw off the Hats of several, which being gathered up by one of the Constables or Watchman atten<g ref="char:EOLhyphen"/>ding on <hi>Hilliar,</hi> counted them to be eleaven, and calling for one more to make them a dozen, carried them away, and came again to fetch another parcel, which was also carried after: Some of them took forth <hi>Anne Day, Anne Gibbons, Mary Didicot, Sarah James, Deborah Merce,</hi> and put them in Bridewell; and others took <hi>Richard Lindy,</hi> a poor blind man, aged Eighty Three years, <hi>Richard Kayse</hi> and <hi>Thomas Dixon</hi> to <hi>Newgate,</hi> and caused the Boys bear-headed, (being in the open Court) to be penned up therein, not suffering them to come out, or have their Hats for near five hours, then let them go. Attested by <hi>Richard Kayse, Thomas Dixon.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Brist. Sc.</hi>
+                  <q>FOrasmuch as Sir <hi>John Knight,</hi> Kt. one of the Sheriffs, and divers Constables of this City were this Morning in execution of their respective Offices, at an House in <hi>Temple-street,</hi> within this City, dispersing an unlawful Coventicle or Meeting, there held at the time of divine Service, contrary to the Laws &amp; Statutes of this Realm, and thereupon <hi>Tho. Callowhill,</hi> one of the persons so there unlawfully assembled, in contempt of our Sover<g ref="char:EOLhyphen"/>raign Lord the King's Majesty, and the said Laws and Statutes, upbraidingly spoke of the said Sheriff and Constables reproachful words, to this effect, <hi>That they troubled the Govern<g ref="char:EOLhyphen"/>ment;</hi> for no other reason, as appears to me, than for doing their Office and Duty in ex<g ref="char:EOLhyphen"/>ecuting the said Laws and Statutes, and thereupon one of the said Constables secured and put into your Custody the said <hi>T. Callowhill,</hi> as a Contemner of the Laws and Breaker of his Majesties Peace; all which appear to me upon Oath. These are therefore to will and require, and in his Majesties Name straitly to charge and command you, to detain and keep in your Custody the Body of the said <hi>Thomas Callowhill,</hi> until he shall become bound to his Majesty, by Recognizance with Sureties for his Personal Appearnace at the next general
+<pb n="1" facs="tcp:108806:4"/>Quarter-Sessions of the Peace, to be held for this City and County, to answer his said Contempt, Misdemenour and breach of his Majesties Peace, and for his good behaviour in the mean time, or that he shall be thence discharged by due course of Law. And hereof you are not to fail, at your Peril.</q>
+               </p>
+               <closer>
+                  <dateline>Given under my Hand and Seal, <date>this eighteenth day of <hi>June, Anno Reg. Car. secundi nunc Angl. &amp;c.</hi> xxxiv. <hi>Anno{que} Dom.</hi> 1682.</date>
+                  </dateline>
+                  <signed>Ralph Olliffe.</signed>
+               </closer>
+               <trailer>
+                  <hi>To the Keeper of his Majesties Goal of</hi> New gate, <hi>within the said City, these.</hi>
+               </trailer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Brist. Sc.</hi>
+                  <q>FOrasmuch as Sir <hi>John Knight,</hi> Kt. one of the Sheriffs, and divers Con<g ref="char:EOLhyphen"/>stables of this City, were this Morning in execution of their respective Offices, at an House in <hi>Temple-street</hi> within this City, dispersing an unlawful Coventicle or Meeting, there held at the time of divine Service, contrary to the Laws and Statutes of his Realm: And forasmuch as divers Boys and Girls, amongst others, were there unlawfully assembled; and forasmuch as <hi>John Hilliar,</hi> Gent. one of the Constables within this City secured in Custody one of the said Girls, and the better to deter her from frequent<g ref="char:EOLhyphen"/>ing such kind of unlawful Meetings, threatned to put her in the Stocks; and thereupon <hi>Mary,</hi> Wise of <hi>Thomas Gouldney,</hi> one of the Persons so there unlawfully assembled did comfort and encourage the said Boys and Girles in their Disobedience of the Law, and in frequent<g ref="char:EOLhyphen"/>ing of the said Boys and Girles in their Disobedience of the Law, and in frequent<g ref="char:EOLhyphen"/>ing of the said Meeting, said to the Girle so secured in custody, these words, or to this effect (viz.) <hi>Do not he afraid of the Stocks.</hi> And thereupon the said <hi>John Hilliar</hi> secured and put in<g ref="char:EOLhyphen"/>to your custody the said <hi>Mary Gouldney,</hi> as a contemner of the Laws and breaker of his Majesties Peace; all which appear to me upon Oath. These are therefore to will and re<g ref="char:EOLhyphen"/>quire, and in his Majesties Name straitly to charge and command you, to detain and keep in your custody the Body of the said <hi>Mary Gouldney,</hi> until she shall find sufficient Sureties to his Majesty by Recognizance for her Personal Appearance at the next general Quarter-Sessions of the Peace, to be holden for this City and County, to answer her said Contempt Misde<g ref="char:EOLhyphen"/>menour and Breach of his Majesties Peace, and for her good be haviour in the mean time, or that she shall be thence discharged by due course of Law: And hereof you are not to fail, at your perrill.</q>
+               </p>
+               <closer>
+                  <dateline>Given under my Hand and Seal <date>this eighteenth day of <hi>June, Anno Reg. Car. secundi nunc Angl. &amp;c.</hi> xxxiv. <hi>Anno{que} Dom</hi> 1682.</date>
+                  </dateline>
+                  <signed>Ralph Olliffe.</signed>
+               </closer>
+               <postscript>
+                  <p>Thus you may see what slight occasions our Adversaries create to themselves to commit us to Prison, crowding us together without Mercy. The Lord (if be his will) incline the Hearts of our Superiors to consider our long and continued severe Treatment, and present suffering Condition, and work Deliverance from under the cruel Oppressions of our Perse<g ref="char:EOLhyphen"/>cutors, that the Guilt of the Blood of an Innocent People, who are in danger to be Suffe<g ref="char:EOLhyphen"/>cated to Death in Prison, may not lie at their Doors.</p>
+               </postscript>
+               <trailer>
+                  <hi>To the Keeper of his Majesties Goal of</hi> Nowgate, <hi>within the said City, these.</hi>
+               </trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON; <hi>Printed for</hi> John Bringhurst <hi>at the Sign of the</hi> Book <hi>in</hi> Grace-Church-street, MDCLXXXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
